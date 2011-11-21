@@ -6,17 +6,17 @@ This is simple aligner for tables (useful for .features tables)
 
 It transforms this
 
- |id |title     |body            |locale|status        |
-|1  | Title1    |Lorem ipsum 1 ..|en    |ready, publish|
+	 |id |title     |body            |locale|status        |
+	|1  | Title1    |Lorem ipsum 1 ..|en    |ready, publish|
 	|2 |Title2    |  Lorem ipsum 2 ..|en    |ready, publish  |
 	|1 |   Заголовок1|Съешь еще этих..|ru    |ready, publish |
 
 into this
 
-|id|title     |body            |locale|status        |
-|1 |Title1    |Lorem ipsum 1 ..|en    |ready, publish|
-|2 |Title2    |Lorem ipsum 2 ..|en    |ready, publish|
-|1 |Заголовок1|Съешь еще этих..|ru    |ready, publish|
+	|id|title     |body            |locale|status        |
+	|1 |Title1    |Lorem ipsum 1 ..|en    |ready, publish|
+	|2 |Title2    |Lorem ipsum 2 ..|en    |ready, publish|
+	|1 |Заголовок1|Съешь еще этих..|ru    |ready, publish|
 
 
 Usage
